@@ -49,7 +49,9 @@ This application is built for Android and leverages modern development practices
 
 You can view a teaser of the MOODLE app in action:
 
-[![Watch the video](https://img.youtube.com/vi/smkXi1BzUn4/0.jpg)](https://www.youtube.com/shorts/smkXi1BzUn4)
+[![Watch the video](https://github.com/josemanuel657/Moodle-wellbeing-diary-android-app/raw/main/ui.png)](https://www.youtube.com/shorts/smkXi1BzUn4)
+
+**Direct Link:** [https://www.youtube.com/shorts/smkXi1BzUn4](https://www.youtube.com/shorts/smkXi1BzUn4)
 
 
 
