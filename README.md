@@ -2,7 +2,7 @@
 
 MOODLE is an Android application designed to promote mental health and emotional self-awareness through an innovative and non-intrusive journaling experience. It leverages a friendly chat companion to help users reflect on their daily moods, experiences, and personal growth in a safe and comfortable environment.
 
-## 🌟 Overview
+## Overview
 
 [cite_start]In today's fast-paced world, maintaining mental well-being and emotional self-awareness can be challenging.  [cite_start]Traditional self-reflection methods can sometimes feel daunting due to emotional barriers or uncomfortable questions.  [cite_start]MOODLE addresses this by providing a relaxed, conversational diary experience.  [cite_start]Instead of direct, potentially harsh questions, the MOODLE Chat Companion engages users with simple, open-ended prompts, making self-reflection an easier and more natural process.  [cite_start]The app also offers personalized insights and motivational phrases to encourage users on their well-being journey. 
 
