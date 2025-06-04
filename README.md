@@ -8,7 +8,7 @@ In today's fast-paced world, maintaining mental well-being and emotional self-aw
 
 This project was developed by Jose Perez for the CS4518 Mobile and Ubiquitous Computing course. 
 
-## ✨ Core Features
+## Core Features
 
 MOODLE offers a suite of features aimed at enhancing user well-being:
 
