@@ -44,10 +44,9 @@ This application is built for Android and leverages modern development practices
    
 * **Asynchronous Operations**: Coroutines are  used for background tasks such as API calls and database operations to keep the UI responsive.
 
-## Key Technical Implementations
-
 
 ## Teaser Video
+
 
 
 
